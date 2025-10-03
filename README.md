@@ -13,8 +13,7 @@
 ## 🌟 Professional Summary  
 🚀 I am a **Computer Science Engineering student** (B.Tech, CSE – SOA University, Bhubaneswar) passionate about **Software Development, Java, and Data Analysis**.  
 💡 Skilled in **Java, MySQL, and OOPs**, with hands-on experience in building a **Bank Management System**.  
-🌱 Actively learning **Python for Data Analysis & ML**, while exploring modern development tools and frameworks.  
-✨ Open to **Software Developer Intern / Java Developer Intern** opportunities.  
+🌱 Actively learning **Python for Data Analysis & ML**, while exploring modern development tools and frameworks.
 
 ---
 
@@ -88,17 +87,9 @@
 
 ## 🎯 Interests  
 
-- 🎨 Designing **AI-generated content** for Instagram  
-- 👟 Reading about **sneaker culture & digital branding**  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
+- 🧰 Learning about **Piracy & Software Exploitation** to develop forensics skills.  
+- 🌐 Exploring **Privacy-preserving tech and User data** protection.
+- 📡 Researching **open-source intelligence (OSINT)** for security investigations.
 
 ---
 
@@ -107,7 +98,7 @@
 <p align="center">
   <a href="mailto:agarwalaryan9114@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
   <a href="https://www.linkedin.com/in/aryanagarwal9114"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
+  <a href="https://github.com/aryanagr-9114"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
 </p>
 
 ---
