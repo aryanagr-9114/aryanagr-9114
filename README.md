@@ -1,6 +1,6 @@
 <!-- Banner / Introduction -->
 <h1 align="center">👋 Hi, I'm <span style="color:#a147f7">Aryan Agrawal</span></h1>
-<h3 align="center">💻 Pre-final Year Computer Science Student | Aspiring Java Developer</h3>
+<h3 align="center">💻 Final Year Computer Science Student | Aspiring Java Developer</h3>
 
 ---
 
