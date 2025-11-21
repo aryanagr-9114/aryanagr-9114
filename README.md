@@ -40,7 +40,7 @@
 
 ## 🎯 Interests  
 
-- 🧰 Learning about **Piracy & Software Exploitation** to develop forensics skills.  
+- 🧰 Learning about **Software Exploitation** to develop forensics skills.  
 - 🌐 Exploring **Privacy-preserving tech and User data** protection.  
 - 📡 Researching **open-source intelligence (OSINT)** for security investigations.  
 
