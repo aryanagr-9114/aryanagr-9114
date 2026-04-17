@@ -38,6 +38,14 @@
 
 ---
 
+## 🚀 Featured Projects
+| Project | Stack | Status | Highlights |
+|---|---|---|---|
+| [**Bank Management System**](https://github.com/aryanagr-9114/Bank-Management-System) | Java 1.8, MySQL, Maven | 🔄 Upgrading to Spring Boot REST API | BCrypt Auth, JUnit 5 Tests, GitHub Actions CI |
+| [**Linux File Explorer**](https://github.com/aryanagr-9114/linux-file-explorer) | C++17, std::filesystem | 🔄 Adding TUI + Plugin System | Make/C++ Build system, System level memory management |
+
+---
+
 ## 🎯 Interests  
 
 - 🧰 Learning about **Software Exploitation** to develop forensics skills.  
