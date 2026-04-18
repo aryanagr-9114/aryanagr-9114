@@ -14,20 +14,20 @@
 
 ## 🌟 Professional Summary  
 
-🚀 I am a **Computer Science Engineering student** (B.Tech, CSE – SOA University, Bhubaneswar) passionate about **Software Development, Java, and Data Analysis**.  
-💡 Skilled in **Java, MySQL, and OOPs**, with hands-on experience in building a **Bank Management System**.  
-🌱 Actively learning **Python for Data Analysis & ML**, while exploring modern development tools and frameworks.  
+🚀 I am a **Computer Science Engineering student** (B.Tech, CSE – SOA University, Bhubaneswar) passionate about **Backend Development, Java, and Data Analysis**.  
+💡 Skilled in **Java, Spring Boot, MySQL, and REST APIs**, with hands-on experience building enterprise-grade backend systems like a full **Bank Management System**.  
+🌱 Actively learning **Python for OSINT & Data Analysis**, while exploring modern frameworks.  
 
 ---
 
 ## 🛠️ Technical Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,mysql,html,css&perline=7" />
 </p>
 
-- **Databases:** MySQL  
-- **Frameworks/Libraries:** JDBC, NumPy, Pandas, Basic ML, SkLearn
+- **Databases:** MySQL, H2  
+- **Frameworks/Libraries:** Spring Boot, REST APIs, JSON Web Tokens (JWT), NumPy, Pandas
 ---
 
 ## 🛠️ Tools & Technologies  
@@ -41,7 +41,7 @@
 ## 🚀 Featured Projects
 | Project | Stack | Status | Highlights |
 |---|---|---|---|
-| [**Bank Management System**](https://github.com/aryanagr-9114/Bank-Management-System) | Java 1.8, MySQL, Maven | 🔄 Upgrading to Spring Boot REST API | BCrypt Auth, JUnit 5 Tests, GitHub Actions CI |
+| [**Bank Management System**](https://github.com/aryanagr-9114/Bank-Management-System) | Java 17, Spring Boot 3, REST | ✅ Completed | JWT Integration, OpenAPI/Swagger Docs, `@Transactional` Atomicity, CI/CD pipeline |
 | [**Linux File Explorer**](https://github.com/aryanagr-9114/linux-file-explorer) | C++17, std::filesystem | 🔄 Adding TUI + Plugin System | Make/C++ Build system, System level memory management |
 
 ---
