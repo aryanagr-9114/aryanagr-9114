@@ -1,6 +1,6 @@
 <!-- Banner / Introduction -->
 <h1 align="center">👋 Hi, I'm <span style="color:#a147f7">Aryan Agrawal</span></h1>
-<h3 align="center">💻 Final Year Computer Science Student | Aspiring Java Developer</h3>
+<h3 align="center">💻 Final Year CS Student | Backend Developer | Security & OSINT Enthusiast</h3>
 
 ---
 
@@ -8,50 +8,52 @@
   <a href="mailto:agarwalaryan9114@gmail.com" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/aryanagr-9114" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-## 🌟 Professional Summary  
+## 🌟 About Me
 
-🚀 I am a **Computer Science Engineering student** (B.Tech, CSE – SOA University, Bhubaneswar) passionate about **Backend Development, Java, and Data Analysis**.  
-💡 Skilled in **Java, Spring Boot, MySQL, and REST APIs**, with hands-on experience building enterprise-grade backend systems like a full **Bank Management System**.  
-🌱 Actively learning **Python for OSINT & Data Analysis**, while exploring modern frameworks.  
+🚀 B.Tech CSE student at **SOA University, Bhubaneswar** — passionate about building real, production-grade backend systems.  
+💡 Currently shipping a **Spring Boot 3 Banking REST API** with JWT auth, transactional safety, Swagger docs, and Docker containerization.  
+🌱 Next up: building an **OSINT-CLI tool in Python** — exploring the security and intelligence investigation space.  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,mysql,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,mysql,docker,html,css&perline=8" />
 </p>
 
-- **Databases:** MySQL, H2  
-- **Frameworks/Libraries:** Spring Boot, REST APIs, JSON Web Tokens (JWT), NumPy, Pandas
----
-
-## 🛠️ Tools & Technologies  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github" />
-</p>
+- **Languages:** Java, Python, C++  
+- **Frameworks:** Spring Boot 3, Spring Security, Spring Data JPA  
+- **Security:** JWT (JSON Web Tokens), BCrypt, REST API Security  
+- **Databases:** MySQL, H2 (In-Memory)  
+- **DevOps:** Docker, docker-compose, GitHub Actions CI/CD  
+- **Tools:** Maven, Git, IntelliJ IDEA, VS Code  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
+
 | Project | Stack | Status | Highlights |
 |---|---|---|---|
-| [**Bank Management System**](https://github.com/aryanagr-9114/Bank-Management-System) | Java 17, Spring Boot 3, REST | ✅ Completed | JWT Integration, OpenAPI/Swagger Docs, `@Transactional` Atomicity, CI/CD pipeline |
-| [**Linux File Explorer**](https://github.com/aryanagr-9114/linux-file-explorer) | C++17, std::filesystem | 🔄 Adding TUI + Plugin System | Make/C++ Build system, System level memory management |
+| [**Bank Management System**](https://github.com/aryanagr-9114/Bank-Management-System) | Java 17, Spring Boot 3, Docker | ✅ Complete | JWT Auth, Swagger/OpenAPI, `@Transactional` Safety, Docker Containerized, GitHub Actions CI |
+| [**Linux File Explorer**](https://github.com/aryanagr-9114/linux-file-explorer) | C++17, std::filesystem | 🧊 Stable | Console file ops (`ls`, `cd`, `chmod`), recursive search, file permission management |
 
 ---
 
-## 🎯 Interests  
+## 🎯 Interests
 
-- 🧰 Learning about **Software Exploitation** to develop forensics skills.  
-- 🌐 Exploring **Privacy-preserving tech and User data** protection.  
-- 📡 Researching **open-source intelligence (OSINT)** for security investigations.  
+- 🔒 **Backend Security** — Building systems that are secure by design (JWT, BCrypt, HTTPS).
+- 📡 **OSINT** — Researching open-source intelligence tools for domain, IP, and username investigation.
+- 🐳 **DevOps** — Containerizing applications with Docker for portable, reproducible deployments.
+- 🌐 **Privacy Tech** — Exploring privacy-preserving architectures and data protection.
 
 ---
 
-⭐️ _“Code, Learn, Repeat — because consistency builds mastery.”_   
+⭐️ _"Code, Learn, Repeat — because consistency builds mastery."_
